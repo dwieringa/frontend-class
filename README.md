@@ -1,0 +1,4 @@
+frontend-class
+==============
+
+Class project
