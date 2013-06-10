@@ -1,4 +1,0 @@
-frontend-class
-==============
-
-Class project
